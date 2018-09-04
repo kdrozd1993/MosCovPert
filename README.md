@@ -1,4 +1,0 @@
-# MosCovPert
-# MosCovPert
-# MosCovPert
-# MosCovPert
